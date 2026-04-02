@@ -28,6 +28,9 @@ This is included because standard Arduino UNO boards do not have built-in WiFi o
 - IRsend
 - WiFi
 - ESPUI
+- IRremote
+- IRrecv
+- IRutils
 
 ### Notes
 - You can customize the IR hex codes in the Smart IR UI file to work with any IR-based device.
