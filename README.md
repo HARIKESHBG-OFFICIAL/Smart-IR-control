@@ -38,3 +38,7 @@ This is included because standard Arduino UNO boards do not have built-in WiFi o
 
 This is the block diagram of the IR transmitter/receiver (since G4 pin has both input and output capabilities)
 <img width="1280" height="720" alt="Block_diagram" src="https://github.com/user-attachments/assets/0f697f5d-f5f4-4ee6-bb70-aee0c1e1c471" />
+
+This is the web page created using ESPUI library.
+<img width="1658" height="862" alt="image" src="https://github.com/user-attachments/assets/12813c90-7672-48a2-9544-f0af6d3c8d4e" />
+
